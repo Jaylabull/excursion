@@ -43,6 +43,10 @@ header{
 }
 
 /* div 3 */
+.andriod-iphone-photo{
+    text-align: center;
+}
+
 .andriod-iphone-photo-description{
     text-align: center;
     color: white;
